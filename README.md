@@ -1,4 +1,4 @@
-# MaterialCursos
+# Material Cursos Power BI y Excel Avanzado
 Material para Cursos de Power BI y Excel Avanzado
 * Base de datos Chinook en CSV
 * Base de datos DVDRental en CVS
