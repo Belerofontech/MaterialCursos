@@ -1,0 +1,15 @@
+Grupo Funciones
+	Forecast
+	Regresion
+	Clustering
+	https://gist.githubusercontent.com/ImkeF/2659b2006ad7b0466ca1cfaed87c86e2/raw/92fcfe7eb9260bee8b07594313791cca8a0f3f3d/Xlsx.ExtractQueries.pq
+Grupo Parametros
+	Busqueda
+Grupo DataSources
+	Fuentes originales de datos
+Grupo DataModels
+	Calendario
+	HMS
+Grupo Documentación
+	#shared
+	Parametro de búsqueda
